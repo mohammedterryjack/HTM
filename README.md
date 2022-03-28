@@ -1,0 +1,2 @@
+# HTM
+hierarchical temporal memory
